@@ -1,5 +1,7 @@
 # CS4053 Computer Vision Starter Project
 
+ **NB** Run debug and release in x64.
+
 Basic project to get OpenCV working on your pc without any need to mess around with paths.
 
 ###How to Use:
