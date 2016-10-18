@@ -12,6 +12,6 @@ It should automatically retrieve the packages when you hit run but if not follow
  2. Go to Tools > Nuget Package Manager > Manage Nuget Packages For solution...  
  3. Then click restore packages.
  
- **NB** You need to restart VS after reinstalling the packages to get rid of the erroneous code warnings.
+**NB** You need to restart VS after reinstalling the packages to get rid of the erroneous code warnings.
  
- **PS** Don't blame me if your house burns down.
+**PS** Don't blame me if your house burns down.
