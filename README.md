@@ -1,6 +1,6 @@
 # CS4053 Computer Vision Starter Project
 
-This project was made to simplify the setup process in one of my University classes. I really should have made better use of .gitignore, don't think anyone needs my build files :).
+This project was made to simplify the setup process in one of my University classes. I really should have made better use of .gitignore, don't think anyone needs my build folders :).
 
  **NB** Run debug and release in x64.
 
